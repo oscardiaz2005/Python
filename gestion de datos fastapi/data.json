@@ -1,0 +1,98 @@
+[
+    {
+        "DNI": "12345678A",
+        "name": "John",
+        "lastName": "Doe",
+        "email": "john.doe@example.com",
+        "phone": "+123456789",
+        "age": "30"
+    },
+    {
+        "DNI": "23456789B",
+        "name": "Jane",
+        "lastName": "Smith",
+        "email": "jane.smith@example.com",
+        "phone": "+234567890",
+        "age": "25"
+    },
+    {
+        "DNI": "34567890C",
+        "name": "Alice",
+        "lastName": "Brown",
+        "email": "alice.brown@example.com",
+        "phone": "+345678901",
+        "age": "28"
+    },
+    {
+        "DNI": "45678901D",
+        "name": "Bob",
+        "lastName": "Johnson",
+        "email": "bob.johnson@example.com",
+        "phone": "+456789012",
+        "age": "35"
+    },
+    {
+        "DNI": "56789012E",
+        "name": "Charlie",
+        "lastName": "Williams",
+        "email": "charlie.williams@example.com",
+        "phone": "+567890123",
+        "age": "32"
+    },
+    {
+        "DNI": "67890123F",
+        "name": "Diana",
+        "lastName": "Jones",
+        "email": "diana.jones@example.com",
+        "phone": "+678901234",
+        "age": "29"
+    },
+    {
+        "DNI": "78901234G",
+        "name": "Eve",
+        "lastName": "Garcia",
+        "email": "eve.garcia@example.com",
+        "phone": "+789012345",
+        "age": "27"
+    },
+    {
+        "DNI": "89012345H",
+        "name": "Frank",
+        "lastName": "Martinez",
+        "email": "frank.martinez@example.com",
+        "phone": "+890123456",
+        "age": "33"
+    },
+    {
+        "DNI": "90123456I",
+        "name": "Grace",
+        "lastName": "Lee",
+        "email": "grace.lee@example.com",
+        "phone": "+901234567",
+        "age": "31"
+    },
+    {
+        "DNI": "01234567J",
+        "name": "Henry",
+        "lastName": "Clark",
+        "email": "henry.clark@example.com",
+        "phone": "+012345678",
+        "age": "26"
+    },
+    {
+        "DNI": "55556",
+        "name": "oscar",
+        "lastName": "diaz",
+        "email": "oscar.diaz@example.com",
+        "phone": "+00000",
+        "age": "31"
+    },
+    {
+        "DNI": "3456",
+        "name": "Alicia",
+        "lastName": "cafe",
+        "email": "alice.cafe@example.com",
+        "phone": "+345678901",
+        "age": "28"
+    }
+]
