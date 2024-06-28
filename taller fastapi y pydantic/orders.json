@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "id_usuario": "2",
+        "lista_productos": [
+            "1",
+            "2"
+        ],
+        "total": 4000
+    },
+    {
+        "id": "2",
+        "id_usuario": "1",
+        "lista_productos": [
+            "3",
+            "2"
+        ],
+        "total": 9000
+    },
+    {
+        "id": "3",
+        "id_usuario": "1",
+        "lista_productos": [
+            "1",
+            "2"
+        ],
+        "total": 4000
+    },
+    {
+        "id": "4",
+        "id_usuario": "3",
+        "lista_productos": [
+            "3",
+            "2"
+        ],
+        "total": 9000
+    }
+]

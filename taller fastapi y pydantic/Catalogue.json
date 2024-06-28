@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "name": "ice cream choco",
+        "price": 1000,
+        "stock": 12
+    },
+    {
+        "id": "2",
+        "name": "ice cream",
+        "price": 3000,
+        "stock": 12
+    },
+    {
+        "id": "3",
+        "name": "cookie",
+        "price": 6000,
+        "stock": 13
+    }
+]
